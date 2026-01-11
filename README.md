@@ -1,6 +1,6 @@
 # Profit_Maximization_UMAHLP
 
-As part of university coursework, I authored a paper developing a mathematical model to optimize network design for profit maximization and solved it with Mixed Integer Programming techniques on real-world datasets. This repository contains the materials and code for the paper. Below is an overview of the included files and how to use the code.
+Authored a paper developing a mathematical model to optimize network design for profit maximization and solved it with Mixed Integer Programming techniques on real-world datasets. This repository contains the materials and code for the paper. Below is an overview of the included files and how to use the code.
 
 ## File Structure
 
@@ -18,3 +18,4 @@ To run the program, follow these steps:
 4. Save the changes and run the program.
 
 **Important**: Ensure the required `*.txt` input files are in the correct directory before running the program.
+
